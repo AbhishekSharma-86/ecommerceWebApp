@@ -1,0 +1,5 @@
+get all products: http://localhost:4000/api/vi/products
+post a products--admin: http://localhost:4000/api/vi/product/new
+update a product--admin: http://localhost:4000/api/vi/product/<product_id>
+Delete product--admin: http://localhost:4000/api/vi/product/<product_id>
+Get a particular product detail:  http://localhost:4000/api/vi/product/<product_id>
